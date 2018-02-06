@@ -25,4 +25,11 @@ to the bottom of the Column Picker window and click *Save*.
 
 image::media/column_picker_dojo.png[column_picker_dojo]
 
+Click on expand to expand the column width. This can be done multiple 
+times until desired width is attained.
+Click on shrink to reduce the column width. This can also be done multiple times.
+Left and Right buttons under each column header shift the column being edited, 
+one column to the left or right respectively.
+
+image:: columnpicker config.jpg [In webclient folder of tmp folder]
 
