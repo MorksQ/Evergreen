@@ -48,8 +48,8 @@ Funding. Alternatively, you can name funding sources by year, e.g. County
 Funding 2010 and County Funding 2011, and apply credits each year to the
 matching source.
 
-. To create a funding source, select *Administration -> Server Administration -> 
-  Acquisitions > Funding Source*. Click the *New Funding Source* button. Give
+. To create a funding source, select *Administration -> Acquisitions Administration ->
+  Funding Sources*. Click the *New Funding Source* button. Give
   the funding source a name, an owning library, and code. You should also
   identify the type of currency that is used for the fund.
 . You must add money to the funding source before you can use it. Click the
@@ -128,8 +128,8 @@ Providers (Required)
 ~~~~~~~~~~~~~~~~~~~~
 Providers are the vendors from whom you order titles.
 
-. To add a provider record,  select *Administration -> Server Administration -> 
-  Acquisitions > Providers*.
+. To add a provider record,  select *Administration -> Acquisitions
+  Administration -> Providers*.
 . Enter information about the provider. At a minimum, you need to add a
   *Provider Name*, *Code*, *Owner*, and *Currency*. You also need to select the
   *Active* checkbox to use the provider.
@@ -207,7 +207,7 @@ translator and EDI scripts on your server by following the instructions in the
 command line system administration manual.
 
 Configure your provider's EDI information by selecting *Administration -> 
-Acquisitions Administration -> EDI Accounts*. Give the account a name in the
+Acquisitions Administration -> EDI Accounts*. Click New Label Button. Give the account a name in the
 *Label* box.
 
 . *Host* is the vendor-assigned FTP/SFTP/SSH hostname.
